@@ -1,0 +1,123 @@
+https://www.youtube.com/watch?v=JmQ1EStRK0s
+
+
+0:06
+Come aprire HP Printer Embedded Web Server dall'app HP Smart
+0:12
+HP Embedded Web Server, o EWS in breve,
+0:16
+è la pagina iniziale che consente di gestire le impostazioni,
+0:19
+ricevere aggiornamenti ed eseguire le attività
+0:22
+di manutenzione di una stampante.
+0:25
+Per aprire EWS dall'app HP Smart,
+0:28
+aprire HP Smart sul dispositivo.
+0:31
+Se non è stata ancora installata l'app,
+0:33
+visitare il sito 123.hp.com o l’App Store per scaricarla.
+0:40
+Accedere all’account HP o crearne uno nuovo.
+0:44
+L'app HP Smart visualizza tutte le stampanti connesse.
+0:49
+Se la stampante in uso
+0:50
+non è ancora disponibile all'interno dell'app,
+0:53
+selezionare Aggiungi stampante
+0:55
+o fare clic sul segno più (+)
+0:57
+per aggiungere una nuova stampante.
+1:00
+Selezionare la stampante
+1:01
+in uso nella schermata iniziale dell'app.
+1:04
+Scorrere l'elenco delle impostazioni,
+1:07
+quindi selezionare Impostazioni avanzate
+1:09
+oppure Pagina iniziale stampante (EWS).
+1:13
+Se viene visualizzato il certificato di sicurezza di un sito Web,
+1:17
+selezionare Continua per aprire la pagina iniziale della stampante.
+1:21
+Se viene visualizzata una finestra di accesso,
+1:24
+digitare “admin” come nome utente
+1:26
+quindi, come password,
+1:28
+digitare il PIN riportato sull'etichetta situata sul fondo
+1:31
+o sul retro della stampante,
+1:33
+oppure digitare la password impostata
+1:35
+dall'amministratore della stampante.
+1:38
+Si apre la pagina Embedded Web Server della stampante.
+1:42
+A questo punto è possibile gestire le impostazioni della stampante,
+1:46
+controllare gli aggiornamenti del firmware
+1:48
+e accedere agli strumenti della stampante da EWS.
+1:54
+Per trovare video HP in altre lingue,
+1:57
+fare clic sulla scheda Playlist in YouTube
+2:00
+e cercare i video ufficiali del supporto tecnico
+2:03
+HP nel nostro canale.
+
+
+——————
+
+
+
+0:06	Come aprire HP Printer Embedded Web Server dall'app HP Smart
+0:12	HP Embedded Web Server, o EWS in breve,
+0:16	è la pagina iniziale che consente di gestire le impostazioni,
+0:19	ricevere aggiornamenti ed eseguire le attività
+0:22	di manutenzione di una stampante.
+0:25	Per aprire EWS dall'app HP Smart,
+0:28	aprire HP Smart sul dispositivo.
+0:31	Se non è stata ancora installata l'app,
+0:33	visitare il sito 123.hp.com o l’App Store per scaricarla.
+0:40	Accedere all’account HP o crearne uno nuovo.
+0:44	L'app HP Smart visualizza tutte le stampanti connesse.
+0:49	Se la stampante in uso
+0:50	non è ancora disponibile all'interno dell'app,
+0:53	selezionare Aggiungi stampante
+0:55	o fare clic sul segno più (+)
+0:57	per aggiungere una nuova stampante.
+1:00	Selezionare la stampante
+1:01	in uso nella schermata iniziale dell'app.
+1:04	Scorrere l'elenco delle impostazioni,
+1:07	quindi selezionare Impostazioni avanzate
+1:09	oppure Pagina iniziale stampante (EWS).
+1:13	Se viene visualizzato il certificato di sicurezza di un sito Web,
+1:17	selezionare Continua per aprire la pagina iniziale della stampante.
+1:21	Se viene visualizzata una finestra di accesso,
+1:24	digitare “admin” come nome utente
+1:26	quindi, come password,
+1:28	digitare il PIN riportato sull'etichetta situata sul fondo
+1:31	o sul retro della stampante,
+1:33	oppure digitare la password impostata
+1:35	dall'amministratore della stampante.
+1:38	Si apre la pagina Embedded Web Server della stampante.
+1:42	A questo punto è possibile gestire le impostazioni della stampante,
+1:46	controllare gli aggiornamenti del firmware
+1:48	e accedere agli strumenti della stampante da EWS.
+1:54	Per trovare video HP in altre lingue,
+1:57	fare clic sulla scheda Playlist in YouTube
+2:00	e cercare i video ufficiali del supporto tecnico
+2:03	HP nel nostro canale.
