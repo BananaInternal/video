@@ -5,23 +5,23 @@ In questo video, scopriremo che cos'è Banana Contabilità Plus, e come può sem
 
 Informazioni Generali
 Banana Contabilità Plus è un software di contabilità professionale, adatto per piccole ditte, associazioni e privati
-È conosciuto per la sua interfaccia utente intuitiva basata su tabelle, simile a Excel
+Disponibile per tutti i sistemi operativi, è conosciuto per la sua interfaccia utente intuitiva basata su tabelle, simile a Excel
 Tutti i dati sono inseriti e visualizzati in tabelle, molto facili da capire e modificare
-L'utente ha la certezza che i dati inseriti sono corretti perché le tabelle sono già predisposte e con le formule integrate
 
 Avvio immediato
 Inizia la tua contabilità in pochi minuti, in tre semplici passi:
-Crea il tuo File della contabilità scegliendo tra i tanti modelli disponibili, ognuno adatto per ogni esigenza
+Crea il tuo File della contabilità scegliendo tra i tanti modelli disponibili e completamente personalizzabili, adatti ad ogni esigenza
 Inserisci o importa i movimenti contabili nella tabella Registrazioni
 Stampa il Bilancio, il Conto Economico e tutti i rendiconti che ti servono
 
-Inserisci i movimenti nella Tabella Registrazioni
-Il cuore del programma è la Tabella Registrazioni. Parte tutto da qui
+Inserisci i movimenti nella tabella Registrazioni
+Il cuore del programma è la tabella Registrazioni. Parte tutto da qui
 Inserisci facilmente le tue registrazioni contabili, tra cui fatture, spese, pagamenti e incassi
 Puoi anche importare direttamente le registrazioni dai tuoi estratti conto della banca
 Che tu li inserisca manualmente o li riprenda in automatico dalla banca, i tuoi dati sono sempre ben chiari e visibili nella tabella
-Utilizza la funzione Filtra righe per filtrare in modo facile e veloce i dati che ti servono
-Puoi modificare le registrazioni quando vuoi, hai tutto sotto controllo
+Puoi anche ordinare le righe per data o altri criteri
+Utilizza la funzione Filtra righe per trovare e modificare in modo facile e veloce i dati che ti servono
+Se necessario puoi sempre modificare le registrazioni, e hai sempre tutto sotto controllo
 
 Personalizza la tabella Registrazioni
 La tabella Registrazioni può essere personalizzata
@@ -31,76 +31,65 @@ Queste colonne permettono di utilizzare ancora più funzionalità del programma
 Ecco le principali:
 
 La gestione dell'IVA
-Utilizza la colonna Codice IVA
-Questa colonna è collegata alla tabella Codici IVA, dove sono definiti i codici IVA relativi alle aliquote in vigore e altri parametri per il calcolo dell'IVA
-Nelle registrazioni inserisci il codice IVA relativo all'acquisto o alla vendita
+Se scegli un modello con IVA, trovi delle colonne specifiche per la gestione dell'IVA
+Utilizza la colonna Codice IVA per inserire registrazioni con IVA
+La colonna è collegata alla tabella Codici IVA, dove sono definite le aliquote e altri parametri per il calcolo dell'IVA
+Nelle registrazioni, inserisci il codice IVA relativo all'acquisto o alla vendita
 Il programma fa tutti i calcoli in automatico
-Potrai quindi stampare facilmente Riassunti IVA e Rendiconti IVA
-
+Stampa facilmente Riassunti e Rendiconti IVA
 
 La fatturazione integrata nella contabilità
-Utilizza la colonna Fattura
-Definisci il Partitario Clienti e Fornitori completi di indirizzi nella tabella Conti
-Tieni nota delle fatture inviate ai clienti e delle fatture ricevute dai fornitori
-Stampa fatture e richiami personalizzati da inviare ai tuoi clienti, anche con il bollettino QR svizzero
-
+Utilizza la colonna Fattura per creare le tue fatture
+Definisci il partitario clienti e fornitori
+e stampa fatture e richiami personalizzati da inviare ai clienti, con o senza il bollettino QR svizzero
 
 La gestione dei documenti digitali
-Aggiungi la colonna Link per collegare PDF o immagini alle registrazioni
-La funzione ti permette di aprire una ricevuta, una fattura o un altro documento direttamente nel File della contabilità
-Il miglior modo per dire addio alla carta e passare a una tenuta contabile completamente digitale
-Lavori più velocemente e hai tutti i tuoi documenti sempre a portata di click
-
+Utilizza la colonna Link per collegare PDF o immagini alle registrazioni
+Hai sempre a portata di mano i tuoi giustificativi e li puoi aprire con un semplice click
 
 La gestione degli articoli e del magazzino
-Aggiungi le colonne Articolo, Quantità, Unità e Prezzo Unità
-Queste colonne sono collegate alla tabella Articoli, dove puoi inserire l'elenco di prodotti e servizi con i relativi prezzi di vendita
-Usa gli articoli che hai definito per creare le tue fatture ancora più velocemente
-
+Utilizza la colonna Articolo nelle registrazioni
+La colonna è collegata alla tabella Articoli, dove puoi inserire l'elenco di prodotti e servizi con i relativi prezzi di vendita
+Puoi quindi usare gli articoli e le colonne Quantità, Unità e Prezzo Unità per creare le fatture
 
 La gestione dei centri di costo e di profitto
-Aggiungi le colonne CC1, CC2 e CC3 per gestire i Centri di costo e di profitto
-Servono per catalogare le registrazioni secondo criteri diversi rispetto ai conti normali
+Utilizza le colonne CC1, CC2 e CC3 per gestire i Centri di costo e di profitto
 Puoi utilizzarli per attribuire delle spese o delle entrate a delle specifiche attività
-Ad esempio per progetti, manifestazioni ed eventi
-O ancora per gestire soci, clienti e fornitori
+Ad esempio per progetti, o per gestire soci di un'associazione
+Ottieni il bilancio e il conto economico con i dettagli dei centri di costo e di profitto
 
 La gestione dei segmenti
-Quando inserisci le registrazioni, aggiungi i segmenti subito dopo il conto Dare o Avere
-I segmenti sono dei conti utilizzati per avere una separazione sistematica dei costi e dei ricavi
-Usando i segmenti puoi ad esempio gestire settori diversi di un'impresa, o gestire diversi progetti di un'associazione
+Utilizza i segmenti subito dopo il conto Dare o Avere
+Puoi utilizzarli per avere una separazione sistematica dei costi e dei ricavi
+Ad esempio per gestire settori diversi di un'impresa, o per gestire diversi progetti di un'associazione
 Ottieni il bilancio e il conto economico suddiviso per segmenti con relativo utile o perdita
 
-
 La gestione della multimoneta
-Gestisci una contabilità in partita doppia con conti in qualsiasi moneta estera
-È utile se lavori all'estero o con l'estero, e vuoi gestire i conti in diverse valute
-Utilizza le colonne specifiche per la multimoneta
-Queste colonne sono legate alla tabella Cambi, dove puoi definire qualsiasi moneta e il relativo cambio
-Stampa il bilancio e il conto economico nelle monete che vuoi
+Se scegli un modello con multimoneta trovi delle colonne specifiche per la gestione dei cambi
+Le colonne sono legate alla tabella Cambi, dove puoi definire qualsiasi moneta e il relativo cambio
+Puoi gestire una una contabilità in partita doppia con conti in qualsiasi moneta estera
+Stampa il bilancio e il conto economico, con gli importi sia in moneta estera sia in moneta base
+
+Le Viste
+Le Viste sono modi diversi di vedere gli stessi dati
+In ogni Vista puoi visualizzare le colonne che ti servono
+Puoi passare semplicemente da una vista all'altra
 
 Il piano dei conti
-Imposta i conti e i gruppi di totalizzazione, il partitario clienti e fornitori, i segmenti, i centri di costo e di profitto
-Definisci la struttura del bilancio e del conto economico
-Puoi creare piani contabili adatti a qualsiasi nazione ed esigenza specifica
-Modifica e cancella le righe esistenti o aggiungine di nuove, in qualsiasi momento
+Se la tabella Registrazioni è il cuore del programma, la tabella Conti è la cabina di regia
+Qui imposti quello che serve per gestire la contabilità e avere una panoramica della situazione finanziaria ed economica
+Tieni tutto sotto controllo, e vedi subito il bilancio e il conto economico
 Tutti i saldi di conti e gruppi sono sempre aggiornati in automatico
-Tieni tutto sotto controllo, e vedi subito il bilancio e il conto economico in modo da avere una visione chiara della situazione
+Imposta i conti e i gruppi di totalizzazione, e definisci la struttura del bilancio e del conto economico
+Puoi creare piani contabili adatti a qualsiasi nazione ed esigenza specifica
+Personalizzare i conti è semplice: modifica, cancella o aggiungi nuove righe in qualsiasi momento
 
 Documentazione online
-Mano mano che registri, il programma ti segnala eventuali errori
+Man mano che registri, il programma ti segnala eventuali errori
 Puoi correggerli facilmente grazie all'aiuto immediato e relativo a quello che stai facendo
 Arrivi alla pagina di documentazione online dove puoi trovare molte informazioni utili
 Tutte le funzionalità del programma sono spiegate in dettaglio nell'estesa documentazione online
-Se hai dei dubbi, consulta la documentazione
 La documentazione online è sempre a disposizione, aggiornata e ampliata costantemente, anche con video tutorials
-
-Per tutti i sistemi operativi
-Banana Contabilità Plus è disponibile per Windows, Mac, Linux, Android, iOS, e gira anche sul browser grazie al nuovissimo WebAssembly
-Viene costantemente aggiornato per garantire la compatibilità con i sistemi operativi più attuali, per migliorare le funzionalità presenti e per aggiungerne di nuove
-È un programma NoCloud: significa che viene installato sul tuo computer e lavora localmente
-I tuoi dati e i tuoi File contabili appartengono esclusivamente a te, e puoi scegliere dove salvarli: sul pc, su dispositivi esterni, e anche sul cloud
-Il programma funziona completamente anche offline
 
 Per maggiori informazioni
 www.banana.ch
