@@ -7,3 +7,4 @@ subscription.key
 **/out/
 **/build/
 **/cache/
+*.xml
